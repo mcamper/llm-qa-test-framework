@@ -36,4 +36,9 @@ and unmanaged chronic conditions.
 - Answer matches all 3 factors in the ground truth
 - No critical factors missing or substituted
 
-## Status: [ ] Not Started
+## Results
+- 5/5 runs matched ground truth exactly
+- No missing or substituted factors
+- No synonym variance observed (contrast with TC-002 Run 4)
+
+## Status: [x] PASS
