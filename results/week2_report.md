@@ -24,7 +24,7 @@ This phase also introduces threshold tuning and highlights evaluator limitations
 | TC ID  | Test Name                     | Metric                | Runs | Pass | Fail | Status | Notes |
 |--------|------------------------------|----------------------|------|------|------|--------|------|
 | TC-005 | Hallucination Detection      | HallucinationMetric  | 4    | 2    | 2    | PASS (With Defects Logged) | Additive hallucination gap identified |
-| TC-006 | Faithfulness Evaluation      | FaithfulnessMetric   | 3    | 3    | 0    | PASS (Prompt-Constrained) | Detailed results: results/week2_evidence/tc006_faithfulness_v1.md |
+| TC-006 | Faithfulness Evaluation      | FaithfulnessMetric   | 3    | 3    | 0    | PASS (Prompt-Sensitive) | See v1 & v2 evidence |
 | TC-007 | [Reserved for New Test Case] | TBD                  | —    | —    | —    | PLANNED | To be implemented |
 
 ---
